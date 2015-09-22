@@ -1,0 +1,14 @@
+[02-Jul-2012 22:24:49] PHP Warning:  file_get_contents(content/water-quality.txt) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/homwater/public_html/water-quality.php on line 60
+[18-Sep-2013 15:01:29 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/homwater/public_html/mail.php:24) in /home/homwater/public_html/mail.php on line 138
+[08-Nov-2013 19:42:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/homwater/public_html/payment.php:46) in /home/homwater/public_html/payment.php on line 58
+[12-Nov-2013 18:42:20 UTC] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/homwater/public_html/process_payment.php on line 51
+[12-Nov-2013 20:57:35 UTC] PHP Fatal error:  Call to undefined function http_get() in /home/homwater/public_html/process_payment.php on line 74
+[12-Nov-2013 21:00:02 UTC] PHP Fatal error:  Call to undefined function http_get() in /home/homwater/public_html/process_payment.php on line 74
+[12-Nov-2013 21:00:05 UTC] PHP Fatal error:  Call to undefined function http_get() in /home/homwater/public_html/process_payment.php on line 74
+[12-Nov-2013 21:00:12 UTC] PHP Fatal error:  Call to undefined function http_get() in /home/homwater/public_html/process_payment.php on line 74
+[12-Nov-2013 21:02:53 UTC] PHP Fatal error:  Call to undefined function http_get() in /home/homwater/public_html/process_payment.php on line 74
+[12-Nov-2013 21:02:56 UTC] PHP Fatal error:  Call to undefined function http_get() in /home/homwater/public_html/process_payment.php on line 74
+[13-Nov-2013 21:05:42 UTC] PHP Fatal error:  Call to undefined function http_get() in /home/homwater/public_html/process_payment.php on line 74
+[14-Nov-2013 15:00:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/homwater/public_html/process_payment.php:108) in /home/homwater/public_html/process_payment.php on line 123
+[14-Nov-2013 15:09:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/homwater/public_html/process_payment.php:109) in /home/homwater/public_html/process_payment.php on line 124
+[14-Nov-2013 15:10:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/homwater/public_html/process_payment.php:116) in /home/homwater/public_html/process_payment.php on line 124

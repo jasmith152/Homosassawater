@@ -1,0 +1,119 @@
+/* CSS Document */
+body {
+ margin-top: 0px;
+ margin: 0px;
+ font-family: Arial,Helvetica,sans-serif;
+ font-size: 13px;
+ color: #000;
+ background: #122E91;
+}
+h1 {
+ font-family: Arial,Helvetica,sans-serif;
+ font-size: 18px;
+ color: #000;
+ font-weight: bold;
+}
+h2 {
+ font-family: Arial,Helvetica,sans-serif;
+ font-size: 16px;
+ color: #000;
+ font-weight: bold;
+ font-style: italic;
+}
+div#header-wrapper {
+ margin: 0px;
+ padding: 0px;
+ width: 100%;
+ height: 150px;
+ text-align: center;
+ background: #D3DCEB url(images/header-bg.jpg) bottom repeat-x;
+}
+div#slideshow-wrapper {
+ margin: 0px;
+ padding: 0px;
+ width: 100%;
+ height: 343px;
+ text-align: center;
+ background: #FFFC01;
+ border-bottom: 5px solid #fff;
+}
+table#slideshows {
+ width: 947px;
+ background-color: #fff;
+ border-left: 5px solid #fff;
+ border-right: 5px solid #fff;
+}
+div#topnav-wrapper {
+ margin: 0px;
+ padding: 0px;
+ width: 100%;
+ height: 37px;
+ text-align: center;
+ background: #fff url(images/topnav-bg.jpg) repeat-x;
+}
+table#topnav {
+ margin: 0px;
+ padding: 0px;
+ width: 947px;
+}
+#topnav a {
+ font-family: Arial,Helvetica,sans-serif;
+ font-size: 11px;
+ color: #FFFC01;
+ text-decoration: none;
+}
+#topnav a:hover {
+ text-decoration: underline overline;
+}
+table#home-content {
+ margin: 0px;
+ padding: 0px;
+ width: 947px;
+ text-align: left;
+ background-color: #fff;
+}
+td#left-col {
+ margin: 0px;
+ padding: 0px;
+ width: 290px;
+ background-color: #fff;
+ text-align: left;
+ border-left: 5px solid #fff;
+}
+td#main-col {
+ margin: 0px;
+ padding: 5px 10px;
+ background-color: #fff;
+ text-align: left;
+}
+td#right-col {
+ margin: 0px;
+ padding: 10px;
+ background-color: #fff;
+ text-align: center;
+}
+div#footer-wrapper {
+ margin: 0px;
+ padding: 5px 0px;
+ width: 100%;
+ text-align: center;
+ background: #122E91 url(images/footer-bg.jpg) top repeat-x;
+}
+table#footer {
+ margin: 0px;
+ padding: 0px;
+ width: 947px;
+ text-align: left;
+ font-family: Arial,Helvetica,sans-serif;
+ font-size: 12px;
+ color: #fff;
+}
+#footer a {
+ font-family: Arial,Helvetica,sans-serif;
+ font-size: 12px;
+ color: #fff;
+ text-decoration: underline;
+}
+#footer a:hover {
+ text-decoration: none;
+}

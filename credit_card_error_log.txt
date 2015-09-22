@@ -1,0 +1,196 @@
+-------------------
+11/14/2013 15:00:02
+RC=0|TransDateStamp=11/14/2013 09:58 AM|PaymentUniqueID=247877
+-------------------
+-------------------
+11/14/2013 15:05:10
+RC=0|TransDateStamp=11/14/2013 10:04 AM|PaymentUniqueID=247878
+-------------------
+-------------------
+11/14/2013 15:09:12
+RC=0|TransDateStamp=11/14/2013 10:08 AM|PaymentUniqueID=247879
+-------------------
+-------------------
+11/14/2013 15:10:17
+RC=0|TransDateStamp=11/14/2013 10:09 AM|PaymentUniqueID=247880
+-------------------
+-------------------
+11/14/2013 15:11:54
+RC=0|TransDateStamp=11/14/2013 10:10 AM|PaymentUniqueID=247881
+-------------------
+-------------------
+11/14/2013 19:07:36
+RC=0|TransDateStamp=11/14/2013 02:06 PM|PaymentUniqueID=247896
+-------------------
+-------------------
+11/14/2013 19:11:26
+RC=0|TransDateStamp=11/14/2013 02:10 PM|PaymentUniqueID=247897
+-------------------
+-------------------
+11/14/2013 19:19:56
+RC=0|TransDateStamp=11/14/2013 02:18 PM|PaymentUniqueID=247898
+-------------------
+-------------------
+11/14/2013 19:25:16
+RC=0|TransDateStamp=11/14/2013 02:24 PM|PaymentUniqueID=247899
+-------------------
+-------------------
+11/19/2013 18:49:06
+RC=0|TransDateStamp=11/19/2013 01:48 PM|PaymentUniqueID=9151813
+-------------------
+-------------------
+11/20/2013 14:41:02
+RC=0|TransDateStamp=11/20/2013 09:41 AM|PaymentUniqueID=9156654
+-------------------
+-------------------
+11/21/2013 17:07:40
+RC=0|TransDateStamp=11/21/2013 12:08 PM|PaymentUniqueID=9167199
+-------------------
+-------------------
+11/21/2013 21:03:53
+RC=0|TransDateStamp=11/21/2013 04:04 PM|PaymentUniqueID=9170587
+-------------------
+-------------------
+11/23/2013 19:39:56
+RC=0|TransDateStamp=11/23/2013 02:40 PM|PaymentUniqueID=9182295
+-------------------
+-------------------
+11/26/2013 01:49:35
+RC=0|TransDateStamp=11/25/2013 08:49 PM|PaymentUniqueID=9192779
+-------------------
+-------------------
+11/26/2013 04:44:09
+RC=7|PaymentUniqueID=-1|TransDateStamp=11/25/2013 11:44 PM|errorMsg=TPE Error: Unknown
+-------------------
+-------------------
+11/26/2013 04:47:32
+RC=0|TransDateStamp=11/25/2013 11:47 PM|PaymentUniqueID=9193050
+-------------------
+-------------------
+11/26/2013 14:29:35
+RC=0|TransDateStamp=11/26/2013 09:29 AM|PaymentUniqueID=9194094
+-------------------
+-------------------
+11/27/2013 12:22:12
+RC=0|TransDateStamp=11/27/2013 07:23 AM|PaymentUniqueID=9201619
+-------------------
+-------------------
+11/29/2013 21:29:48
+RC=7|PaymentUniqueID=-1|TransDateStamp=11/29/2013 04:30 PM|errorMsg=TPE Error: Unknown
+-------------------
+-------------------
+11/29/2013 21:34:45
+RC=7|PaymentUniqueID=-1|TransDateStamp=11/29/2013 04:35 PM|errorMsg=TPE Error: Unknown
+-------------------
+-------------------
+12/03/2013 04:14:42
+RC=0|TransDateStamp=12/02/2013 11:14 PM|PaymentUniqueID=9227455
+-------------------
+-------------------
+12/04/2013 00:26:37
+RC=7|PaymentUniqueID=-1|TransDateStamp=12/03/2013 07:26 PM|errorMsg=TPE Error: Unknown
+-------------------
+-------------------
+12/04/2013 00:29:12
+RC=7|PaymentUniqueID=-1|TransDateStamp=12/03/2013 07:28 PM|errorMsg=TPE Error: Unknown
+-------------------
+-------------------
+12/05/2013 08:59:32
+RC=6|PaymentUniqueID=-1|TransDateStamp=12/05/2013 03:59 AM|errorMsg=[203] There is a problem in authorizing your credit card. Please use a different card.
+-------------------
+-------------------
+12/08/2013 21:04:45
+RC=7|PaymentUniqueID=-1|TransDateStamp=12/08/2013 04:03 PM|errorMsg=TPE Error: Unknown
+-------------------
+-------------------
+12/08/2013 21:07:40
+RC=7|PaymentUniqueID=-1|TransDateStamp=12/08/2013 04:06 PM|errorMsg=TPE Error: Unknown
+-------------------
+-------------------
+12/09/2013 21:14:27
+RC=6|PaymentUniqueID=-1|TransDateStamp=12/09/2013 04:13 PM|errorMsg=[203] There is a problem in authorizing your credit card. Please use a different card.
+-------------------
+-------------------
+12/09/2013 21:16:19
+RC=3|PaymentUniqueID=-1|TransDateStamp=12/09/2013 04:14 PM|errorMsg=Local Error: invalid Data Error
+-------------------
+-------------------
+12/13/2013 19:35:20
+RC=0|TransDateStamp=12/13/2013 02:33 PM|PaymentUniqueID=9304095
+-------------------
+-------------------
+12/17/2013 16:00:02
+RC=7|PaymentUniqueID=-1|TransDateStamp=12/17/2013 11:00 AM|errorMsg=TPE Error: Unknown
+-------------------
+-------------------
+12/17/2013 16:04:39
+RC=7|PaymentUniqueID=-1|TransDateStamp=12/17/2013 11:05 AM|errorMsg=TPE Error: Unknown
+-------------------
+-------------------
+12/17/2013 18:18:30
+RC=0|TransDateStamp=12/17/2013 01:19 PM|PaymentUniqueID=9322839
+-------------------
+-------------------
+12/18/2013 21:09:59
+RC=7|PaymentUniqueID=-1|TransDateStamp=12/18/2013 04:11 PM|errorMsg=TPE Error: Unknown
+-------------------
+-------------------
+12/18/2013 21:13:26
+RC=7|PaymentUniqueID=-1|TransDateStamp=12/18/2013 04:14 PM|errorMsg=TPE Error: Unknown
+-------------------
+-------------------
+12/20/2013 18:20:35
+RC=2|PaymentUniqueID=-1|TransDateStamp=12/20/2013 01:21 PM|errorMsg=Expiration date is past
+-------------------
+-------------------
+12/20/2013 18:23:09
+RC=7|PaymentUniqueID=-1|TransDateStamp=12/20/2013 01:24 PM|errorMsg=TPE Error: Unknown
+-------------------
+-------------------
+12/24/2013 06:14:48
+RC=6|PaymentUniqueID=-1|TransDateStamp=12/24/2013 01:15 AM|errorMsg=[203] There is a problem in authorizing your credit card. Please use a different card.
+-------------------
+-------------------
+12/24/2013 12:37:28
+RC=0|TransDateStamp=12/24/2013 07:38 AM|PaymentUniqueID=9362156
+-------------------
+-------------------
+12/26/2013 08:49:22
+RC=0|TransDateStamp=12/26/2013 03:49 AM|PaymentUniqueID=9365307
+-------------------
+-------------------
+12/26/2013 14:43:05
+RC=0|TransDateStamp=12/26/2013 09:43 AM|PaymentUniqueID=9366078
+-------------------
+-------------------
+12/26/2013 15:32:04
+RC=7|PaymentUniqueID=-1|TransDateStamp=12/26/2013 10:32 AM|errorMsg=TPE Error: Unknown
+-------------------
+-------------------
+12/26/2013 15:53:45
+RC=0|TransDateStamp=12/26/2013 10:54 AM|PaymentUniqueID=9366897
+-------------------
+-------------------
+12/26/2013 18:40:13
+RC=7|PaymentUniqueID=-1|TransDateStamp=12/26/2013 01:40 PM|errorMsg=TPE Error: Unknown
+-------------------
+-------------------
+12/26/2013 21:15:03
+RC=7|PaymentUniqueID=-1|TransDateStamp=12/26/2013 04:15 PM|errorMsg=TPE Error: Unknown
+-------------------
+-------------------
+12/27/2013 18:06:57
+RC=7|PaymentUniqueID=-1|TransDateStamp=12/27/2013 01:07 PM|errorMsg=TPE Error: Unknown
+-------------------
+-------------------
+12/27/2013 18:46:58
+RC=7|PaymentUniqueID=-1|TransDateStamp=12/27/2013 01:47 PM|errorMsg=TPE Error: Unknown
+-------------------
+-------------------
+12/28/2013 02:59:37
+RC=6|PaymentUniqueID=-1|TransDateStamp=12/27/2013 09:59 PM|errorMsg=[203] There is a problem in authorizing your credit card. Please use a different card.
+-------------------
+-------------------
+12/28/2013 03:01:31
+RC=6|PaymentUniqueID=-1|TransDateStamp=12/27/2013 10:01 PM|errorMsg=[203] There is a problem in authorizing your credit card. Please use a different card.
+-------------------
